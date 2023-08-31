@@ -1,0 +1,10 @@
+{
+    "tests": [
+	{"fullname": "MovementTest.BuildTest",
+         "points": 1},
+	{"fullname": "MovementTest.ConstantTest",
+	 "points": 2},
+	{"fullname": "SceneTest.TestInstanceVariable",
+	 "points": 2}
+    ]
+}
