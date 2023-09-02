@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Particle2D : MonoBehaviour
 {
-    public const bool PassTest = false;
+    public const bool PassTest = true;
 
     public bool PassTestInstance = true;
 
